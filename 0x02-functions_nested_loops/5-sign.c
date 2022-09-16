@@ -31,9 +31,10 @@ int main(){
 
 		putchar('+');
 
-	else;
+	else{
 
 	putchar('-');
+	}
 	return(0);
 
 
